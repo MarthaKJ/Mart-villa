@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 import { Routes, Route, useLocation } from "react-router-dom";
 import BackToTopButton from "./components/common/BackToTopButton";
 import Footer from "./components/common/Footer";
-import Navbar from "./components/common/Navbar";
+import Navbar from "./components/common/Navbar" ;
 import {
   HomeTwo,
   HomeThree, 
